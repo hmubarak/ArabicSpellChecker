@@ -60,7 +60,7 @@ RELATED PAPERS
 
 CONTACT
 --------------------------
-If you have any problem, question please contact hmubarak@hbku.edu.qa 
+If you have any problem, question please contact hmubarak@hbku.edu.qa, kdarwish@hbku.edu.qa, aabdelali@hbku.edu.qa
 
 WEB SITE
 ---------------------------
